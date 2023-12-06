@@ -6,4 +6,4 @@ if (check_upper):
 else:
     print("the first letter is not capital")
 
- print(name.capitalize())
+print(name.capitalize())
